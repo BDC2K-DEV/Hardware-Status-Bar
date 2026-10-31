@@ -1,0 +1,8 @@
+{
+  "uuid": "hardware-bar@creator.local",
+  "name": "Hardware Status Bar",
+  "description": "Smooth temperature colors and memory usage in the GNOME panel, with application memory and one-click process termination.",
+  "shell-version": ["50"],
+  "version": 2,
+  "url": "https://github.com/BDC2K-DEV/Hardware-Status-Bar"
+}

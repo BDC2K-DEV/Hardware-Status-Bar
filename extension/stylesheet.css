@@ -1,0 +1,31 @@
+.hardware-button { padding: 0 12px; }
+.hardware-popover .popup-menu-content { background-color: #1c1f22; border: 1px solid #373c43; border-radius: 17px; padding: 0; box-shadow: 0 8px 24px 0 rgba(0,0,0,0.4); }
+.hardware-menu { padding: 0; }
+.hw-body { width: 650px; padding: 22px; color: #edf0f3; }
+.hw-title { font-size: 20px; font-weight: bold; }
+.hw-subtitle { color: #a3aab4; font-size: 11px; }
+.hw-body > .hw-subtitle { padding-top: 4px; }
+.hw-thermal { spacing: 20px; padding: 24px 0; }
+.hw-tile { spacing: 10px; min-width: 96px; }
+.hw-sensor-icon { color: #a3aab4; }
+.hw-temperature { font-size: 20px; font-weight: bold; padding-top: 4px; }
+.hw-status { spacing: 12px; border-left: 1px solid #34383f; padding-left: 20px; }
+.hw-status-title { font-size: 15px; font-weight: bold; padding-bottom: 8px; }
+.hw-memory { spacing: 14px; padding: 4px 0 26px 0; }
+.hw-memory-stack { spacing: 8px; }
+.hw-memory-title { font-size: 15px; }
+.hw-meter-row { spacing: 14px; }
+.hw-app-heading { border-top: 1px solid #34383f; padding: 20px 0 14px 0; spacing: 10px; }
+.hw-app-title { font-size: 16px; font-weight: bold; }
+.hw-refresh { color: #a3aab4; border-radius: 4px; padding: 0 3px; }
+.hw-refresh:hover { color: white; background-color: #34383f; }
+.hw-headers { border-top: 1px solid #34383f; border-bottom: 1px solid #34383f; padding: 10px 0; spacing: 14px; }
+.hw-memory-column { width: 90px; }
+.hw-action-column { width: 78px; }
+.hardware-row { spacing: 14px; padding: 12px 0; border-bottom: 1px solid #30353b; color: #edf0f3; }
+.hardware-row StLabel { color: #edf0f3; }
+.hardware-row .hw-subtitle { color: #a3aab4; padding-top: 4px; }
+.hardware-kill { color: #ff5c65; border: 1px solid #bd3745; border-radius: 7px; width: 76px; padding: 7px 0; background-color: #302125; }
+.hardware-kill:hover { background-color: #672a32; color: white; }
+.hardware-kill:focus { border-color: white; }
+.hw-footer { padding-top: 16px; spacing: 14px; }
