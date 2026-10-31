@@ -59,6 +59,7 @@ class InstallLifecycleTests(unittest.TestCase):
         import shutil
         import sys
         from unittest.mock import patch
+        subprocess.run(['python3',str(ROOT/'scripts/build.py')],check=True,capture_output=True)
         with tempfile.TemporaryDirectory() as tmp:
             root=Path(tmp)
             shutil.copy(ROOT/'dist/hardware-status-bar.extension.zip',root/'hardware-status-bar.extension.zip')
